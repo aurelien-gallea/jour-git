@@ -1,0 +1,23 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+table {
+    border: 1px solid black;
+    margin: 5rem auto;
+    border-collapse: collapse;
+
+}
+
+td {
+    border: 1px solid black;
+    font-size: 25px;
+    padding: 0.5rem;
+}
